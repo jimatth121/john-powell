@@ -86,8 +86,8 @@ img{
     .split>*{
         flex-basis: 100%;
     }
-    .slpit > * + * {
-        margin-left: 20em;
+    .split >* + *{
+        margin-left: 2em;
     }
 
     
